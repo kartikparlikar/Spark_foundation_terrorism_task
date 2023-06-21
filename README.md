@@ -24,7 +24,7 @@ Performed 'Exploratory Data Analysis' on dataset 'Global Terrorism' and I got so
 
 
 
-[Video Link]()
+[Video Link](https://www.linkedin.com/posts/kartik-parlikar_task2-gripjune23-gripjune23-activity-7077161802635112448-BEYQ?utm_source=share&utm_medium=member_desktop)
 |
 
 
